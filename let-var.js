@@ -11,7 +11,7 @@
 
 
  /**
-  * Declarion d'una variable avec Let
+  * Declarion d'une variable avec Let
   */
  let nom = "Spider-Man";
 
@@ -21,7 +21,7 @@
  console.log(nom);
 
 /**
-  * Declarion d'una variable avec Var
+  * Declarion d'une variable avec Var
   */
 
  var nom2 = "Spider-Man";
