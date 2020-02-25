@@ -9,7 +9,6 @@
  * 
  */
 
-
  /**
   * Declarion d'une variable avec Let
   */
@@ -21,13 +20,8 @@
  console.log(nom);
 
 /**
-<<<<<<< HEAD
  * Declarion d'une variable avec Var
  */
-=======
-  * Declarion d'une variable avec Var
-  */
->>>>>>> 3ebc9a998cc5810c0fd9ec1900415442ae02408c
 
  var nom2 = "Spider-Man";
 
